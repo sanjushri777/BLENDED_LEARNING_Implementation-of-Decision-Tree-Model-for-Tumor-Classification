@@ -40,7 +40,7 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
  
 
 ## Program:
-```
+```python
 /*
 Program to  implement a Decision Tree model for tumor classification.
 Developed by: SANJUSHRI A
